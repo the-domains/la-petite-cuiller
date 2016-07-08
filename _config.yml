@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0
+color:
+  saturation: 1
+  lightness: 1
+  brandStrength: 0.5734767
+  brandColors:
+    - '#0B0B0B'
+    - '#8A1E1C'
+    - '#D6DE7B'
+    - '#9F7933'
+    - '#383846'
+  rhythmicContrast: 1
+name: La Petite Cuiller
